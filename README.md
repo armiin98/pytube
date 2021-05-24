@@ -8,6 +8,8 @@
 
 3.run main.py
 
+after you entered link you are going to see something like this : 
+
 
         +====+============+============+
         | ID |   FORMAT   | RESOLUTION |
