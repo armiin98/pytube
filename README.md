@@ -2,9 +2,9 @@
 ## YouTube Downloader 
 #### GIve link and download in different formats!
 
-1.clone the project
-2.install requirements
-3.run main.py
+1.clone the project\n
+2.install requirements\n
+3.run main.py\n
 
 script environment : 
 
