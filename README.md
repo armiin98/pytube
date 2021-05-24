@@ -9,12 +9,12 @@
 script environment :
 
 +====+============+============+ 
-| ID |   FORMAT   | RESOLUTION |  
-+====+============+============+ 
-| 0  | video/mp4  |    360p    |
-| 1  | video/mp4  |    720p    |
-| 2  | video/mp4  |   1080p    |
-| 3  | video/webm |   1080p    |
+| ID |   FORMAT   | RESOLUTION |   
++====+============+============+  
+| 0  | video/mp4  |    360p    |  
+| 1  | video/mp4  |    720p    |  
+| 2  | video/mp4  |   1080p    | 
+| 3  | video/webm |   1080p    | 
 | 4  | video/mp4  |    720p    |
 | 5  | video/webm |    720p    |
 | 6  | video/mp4  |    480p    |
