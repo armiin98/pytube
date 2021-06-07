@@ -8,7 +8,7 @@ $ git clone https://github.com/armiin98/pytube.git
 ```       
 2.install requirements
 ```sh
-$ pip install -r requirements
+$ pip install -r requirements.txt
 ```       
 3.run main.py
 ```sh
