@@ -3,10 +3,17 @@
 #### GIve link and download in different formats!
 
 1.clone the project
-
+```sh
+$ git clone https://github.com/armiin98/pytube.git
+```       
 2.install requirements
-
+```sh
+$ pip install -r requirements
+```       
 3.run main.py
+```sh
+$ python main.py
+```       
 
 after you entered link you are going to see something like this : 
 
